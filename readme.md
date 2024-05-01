@@ -1,0 +1,1 @@
+https://github.com/practicingman/chinese_text_cnn/blob/master/train.py
